@@ -67,7 +67,6 @@ $route->listen();
 // load content
 require_once "app/view/header.php";
 if($viewContent != NULL){
-	echo $baseDir;
 	echo $viewContent;
 } else{
 	require_once "app/view/404.php";
