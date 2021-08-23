@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,400&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.bolder{
+    font-weight: 900;
+}
+
+.form-label{
+    font-size: smaller;
+    margin-bottom: 5px !important;
+}
+
+.form-control, .form-control-sm, .card, .btn{
+    border-radius: .5rem !important;
+}
+
+.card-title{
+    font-weight: 900 !important;
+}
